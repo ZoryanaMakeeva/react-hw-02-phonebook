@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.module.css"],"names":[],"mappings":"AAAA,2BACE,qBAAsB,CACtB,SAAU,CACV,YACF,CAEA,sBACE,aAAc,CACd,eACF,CAEA,qBACE,aAAc,CACd,kBACF,CAdA,oBACE,kBACF,CAEA,sBACE,gBAAiB,CACjB,cACF,CAPA,yBACE,0CAA6C,CAC7C,UACF","file":"main.b989cb4f.chunk.css","sourcesContent":[".phoneBook {\n  font-family: \"Open Sans\", \"Arial\", sans-serif;\n  color: #222;\n}"]}
